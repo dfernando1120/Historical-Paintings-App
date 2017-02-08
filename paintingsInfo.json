@@ -1,0 +1,85 @@
+
+{
+    "famousPaintings":[
+                       {
+                       "name": "The Mona Lisa",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-1.jpg"
+                       },
+                       {
+                       "name": "Starry Night",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-2.jpg"
+                       },
+                       {
+                       "name": "The Scream",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-3.jpg"
+                       },
+                       {
+                       "name": "Guernica",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-4.jpg"
+                       },
+                       {
+                       "name": "The Persistence of Memory",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-5.jpg"
+                       },
+                       {
+                       "name": "The Last Supper",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-6.jpg"
+                       },
+                       {
+                       "name": "A Sunday Afternoon on the Island of La Grande Jatte",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-7.jpg"
+                       },
+                       {
+                       "name": "Girl with a Pearl Earring",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-8.jpg"
+                       },
+                       {
+                       "name": "Whistler's Mother",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-9.jpg"
+                       },
+                       {
+                       "name": "Portrait de L'artiste Sans Barbe",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-10.jpg"
+                       },
+                       {
+                       "name": "The Night Watch",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-11.jpg"
+                       },
+                       {
+                       "name": "The Kiss",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-12.jpg"
+                       },
+                       {
+                       "name": "Water Lilies",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-13.jpg"
+                       },
+                       {
+                       "name": "The Flower Carrier",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-14.jpg"
+                       },
+                       {
+                       "name": "American Gothic",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-15.jpg"
+                       },
+                       {
+                       "name": "Cafe Terrace at Night",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-16.jpg"
+                       },
+                       {
+                       "name": "The Son of Man",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-17.jpg"
+                       },
+                       {
+                       "name": "No. 5, 1948",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-18.jpg"
+                       },
+                       {
+                       "name": "Bal du moulin de la Galette",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-19.jpg"
+                       },
+                       {
+                       "name": "Dogs Playing Poker",
+                       "image": "http://ep.yimg.com/ty/cdn/madisonartshop/most-famous-paintings-20.jpg"
+                       }
+                       ]
+}

@@ -14,6 +14,10 @@
 		5191ED321E4AA32A001058A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5191ED301E4AA32A001058A9 /* LaunchScreen.storyboard */; };
 		5191ED3D1E4AA32A001058A9 /* Historical_PaintingsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5191ED3C1E4AA32A001058A9 /* Historical_PaintingsTests.swift */; };
 		5191ED481E4AA32A001058A9 /* Historical_PaintingsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5191ED471E4AA32A001058A9 /* Historical_PaintingsUITests.swift */; };
+		5191ED561E4AA883001058A9 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5191ED551E4AA883001058A9 /* DetailViewController.swift */; };
+		5191ED581E4AA9E6001058A9 /* PaintingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5191ED571E4AA9E6001058A9 /* PaintingTableViewCell.swift */; };
+		5191ED5A1E4AAA09001058A9 /* PaintingClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5191ED591E4AAA09001058A9 /* PaintingClass.swift */; };
+		5191ED5E1E4AB4E0001058A9 /* paintingsInfo.json in Resources */ = {isa = PBXBuildFile; fileRef = 5191ED5D1E4AB4E0001058A9 /* paintingsInfo.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,10 @@
 		5191ED431E4AA32A001058A9 /* Historical-PaintingsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Historical-PaintingsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5191ED471E4AA32A001058A9 /* Historical_PaintingsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Historical_PaintingsUITests.swift; sourceTree = "<group>"; };
 		5191ED491E4AA32A001058A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5191ED551E4AA883001058A9 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		5191ED571E4AA9E6001058A9 /* PaintingTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaintingTableViewCell.swift; sourceTree = "<group>"; };
+		5191ED591E4AAA09001058A9 /* PaintingClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaintingClass.swift; sourceTree = "<group>"; };
+		5191ED5D1E4AB4E0001058A9 /* paintingsInfo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = paintingsInfo.json; path = ../paintingsInfo.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +105,13 @@
 		5191ED261E4AA32A001058A9 /* Historical-Paintings */ = {
 			isa = PBXGroup;
 			children = (
+				5191ED2B1E4AA32A001058A9 /* Main.storyboard */,
 				5191ED271E4AA32A001058A9 /* AppDelegate.swift */,
 				5191ED291E4AA32A001058A9 /* ViewController.swift */,
-				5191ED2B1E4AA32A001058A9 /* Main.storyboard */,
+				5191ED551E4AA883001058A9 /* DetailViewController.swift */,
+				5191ED571E4AA9E6001058A9 /* PaintingTableViewCell.swift */,
+				5191ED591E4AAA09001058A9 /* PaintingClass.swift */,
+				5191ED5D1E4AB4E0001058A9 /* paintingsInfo.json */,
 				5191ED2E1E4AA32A001058A9 /* Assets.xcassets */,
 				5191ED301E4AA32A001058A9 /* LaunchScreen.storyboard */,
 				5191ED331E4AA32A001058A9 /* Info.plist */,
@@ -238,6 +250,7 @@
 				5191ED321E4AA32A001058A9 /* LaunchScreen.storyboard in Resources */,
 				5191ED2F1E4AA32A001058A9 /* Assets.xcassets in Resources */,
 				5191ED2D1E4AA32A001058A9 /* Main.storyboard in Resources */,
+				5191ED5E1E4AB4E0001058A9 /* paintingsInfo.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,8 +275,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5191ED561E4AA883001058A9 /* DetailViewController.swift in Sources */,
 				5191ED2A1E4AA32A001058A9 /* ViewController.swift in Sources */,
+				5191ED5A1E4AAA09001058A9 /* PaintingClass.swift in Sources */,
 				5191ED281E4AA32A001058A9 /* AppDelegate.swift in Sources */,
+				5191ED581E4AA9E6001058A9 /* PaintingTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
